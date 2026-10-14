@@ -1,4 +1,4 @@
-![.Net](http://img.shields.io/badge/-Core%20v4.6-008999?style=flat-square&logo=.net&logoColor=ffffff) ![license](https://img.shields.io/github/license/anthueeccel/hackatonhf) ![date](http://img.shields.io/badge/August-25th%20and%2026th-333302?style=flat-square&logo=none&logoColor=442342)
+![date](http://img.shields.io/badge/2018%20August-25th%20and%2026th-333302?style=flat-square&logo=none&logoColor=442342) ![.Net](http://img.shields.io/badge/-Core%20v4.6-008999?style=flat-square&logo=.net&logoColor=ffffff)
 
 
 # hackatonhf
